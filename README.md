@@ -25,6 +25,8 @@ gradle clean test
 gradle allureReport allureServe
 ```
 ## Report View
-![alluresult](https://user-images.githubusercontent.com/48891202/85232576-b6ae0600-b421-11ea-8a5e-913df13d30cd.png)
-![allureresult2](https://user-images.githubusercontent.com/48891202/85232626-245a3200-b422-11ea-90f1-de4c649f3534.png)
+![alluresult](https://user-images.githubusercontent.com/48891202/85259278-96666180-b48a-11ea-9360-6fa3d45bf874.png)
+
+![allureresult2](https://user-images.githubusercontent.com/48891202/85259306-a2522380-b48a-11ea-8820-d865d417a6c5.png)
+
 
