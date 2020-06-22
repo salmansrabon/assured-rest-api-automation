@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Test Assured Framework">
+
+    <test name="Test Assured Framework">
+        <classes>
+            <class name="RunTestCase"/>
+        </classes>
+    </test>
+</suite>

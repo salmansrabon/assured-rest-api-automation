@@ -1,0 +1,45 @@
+{
+  "uid" : "50dc03aa551b2fca",
+  "name" : "postAPI",
+  "fullName" : "RunTestCase.postAPI",
+  "historyId" : "2c1dfd99def5118897509977ebd78aa",
+  "time" : {
+    "start" : 1592808833275,
+    "stop" : 1592808843183,
+    "duration" : 9908
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "postAPI"
+  }, {
+    "name" : "suite",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "14620@SALMAN-PC.Test worker(12)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  }
+}

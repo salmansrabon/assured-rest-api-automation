@@ -1,0 +1,45 @@
+{
+  "uid" : "f9ad3e01ed4a792b",
+  "name" : "getAPI",
+  "fullName" : "RunTestCase.getAPI",
+  "historyId" : "56262df38964afb511ddc99ec927cfce",
+  "time" : {
+    "start" : 1592808828292,
+    "stop" : 1592808833118,
+    "duration" : 4826
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "getAPI"
+  }, {
+    "name" : "suite",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "14620@SALMAN-PC.Test worker(12)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  }
+}

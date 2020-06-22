@@ -1,0 +1,45 @@
+{
+  "uid" : "b9038d9e821c02be",
+  "name" : "testReadExcelFile",
+  "fullName" : "RunTestCase.testReadExcelFile",
+  "historyId" : "6f090d9f94de24efacebe035810a99ee",
+  "time" : {
+    "start" : 1592808843205,
+    "stop" : 1592808851155,
+    "duration" : 7950
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "testReadExcelFile"
+  }, {
+    "name" : "suite",
+    "value" : "RunTestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "14620@SALMAN-PC.Test worker(12)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  }
+}

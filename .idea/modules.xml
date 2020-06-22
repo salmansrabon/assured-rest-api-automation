@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-assured-framework-salman.iml" filepath="$PROJECT_DIR$/.idea/modules/test-assured-framework-salman.iml" group="test-assured-framework-salman" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-assured-framework-salman_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test-assured-framework-salman_main.iml" group="test-assured-framework-salman" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-assured-framework-salman_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test-assured-framework-salman_test.iml" group="test-assured-framework-salman" />
+    </modules>
+  </component>
+</project>

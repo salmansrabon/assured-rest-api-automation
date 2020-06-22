@@ -1,0 +1,76 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  },
+  "time" : {
+    "minDuration" : 4826,
+    "maxDuration" : 9908,
+    "sumDuration" : 22684,
+    "start" : 1592808828292,
+    "stop" : 1592808851155,
+    "duration" : 22863
+  },
+  "children" : [ {
+    "uid" : "d3970ec726240727",
+    "name" : "",
+    "time" : {
+      "minDuration" : 4826,
+      "maxDuration" : 9908,
+      "sumDuration" : 22684,
+      "start" : 1592808828292,
+      "stop" : 1592808851155,
+      "duration" : 22863
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "b9038d9e821c02be",
+      "name" : "testReadExcelFile",
+      "time" : {
+        "start" : 1592808843205,
+        "stop" : 1592808851155,
+        "duration" : 7950
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode",
+      "parameters" : [ ]
+    }, {
+      "uid" : "f9ad3e01ed4a792b",
+      "name" : "getAPI",
+      "time" : {
+        "start" : 1592808828292,
+        "stop" : 1592808833118,
+        "duration" : 4826
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode",
+      "parameters" : [ ]
+    }, {
+      "uid" : "50dc03aa551b2fca",
+      "name" : "postAPI",
+      "time" : {
+        "start" : 1592808833275,
+        "stop" : 1592808843183,
+        "duration" : 9908
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode",
+      "parameters" : [ ]
+    } ]
+  } ]
+}

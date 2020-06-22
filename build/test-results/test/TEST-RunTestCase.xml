@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RunTestCase" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-22T06:53:48" hostname="SALMAN-PC" time="22.862">
+  <properties/>
+  <testcase name="getAPI" classname="RunTestCase" time="4.979"/>
+  <testcase name="postAPI" classname="RunTestCase" time="9.927"/>
+  <testcase name="testReadExcelFile" classname="RunTestCase" time="7.95"/>
+  <system-out><![CDATA[Id: 10
+Title: at nam consequatur ea labore ea harum
+Body: cupiditate quo est a modi nesciunt soluta
+ipsa voluptas error itaque dicta in
+autem qui minus magnam et distinctio eum
+accusamus ratione error aut
+{
+  "userId": 10,
+  "id": 100,
+  "title": "at nam consequatur ea labore ea harum",
+  "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+}
+{
+  "title": "title1",
+  "body": "body1",
+  "userId": "101",
+  "id": 101
+}
+{
+  "title": "title2",
+  "body": "body2",
+  "userId": "102",
+  "id": 101
+}
+{
+  "title": "title3",
+  "body": "body3",
+  "userId": "103",
+  "id": 101
+}
+{
+  "title": "title4",
+  "body": "body4",
+  "userId": "104",
+  "id": 101
+}
+{
+  "title": "title5",
+  "body": "body5",
+  "userId": "105",
+  "id": 101
+}
+{
+  "title": "title6",
+  "body": "body6",
+  "userId": "106",
+  "id": 101
+}
+{
+  "title": "title7",
+  "body": "body7",
+  "userId": "107",
+  "id": 101
+}
+{
+  "title": "title8",
+  "body": "body8",
+  "userId": "108",
+  "id": 101
+}
+{
+  "title": "title9",
+  "body": "body9",
+  "userId": "109",
+  "id": 101
+}
+{
+  "title": "title9",
+  "body": "body9",
+  "userId": "109",
+  "id": 101
+}
+User Id: 109
+Title: title9
+Body: body9
+{
+  "title": "title1",
+  "body": "body1",
+  "userId": "101",
+  "id": 101
+}
+{
+  "title": "title2",
+  "body": "body2",
+  "userId": "102",
+  "id": 101
+}
+{
+  "title": "title3",
+  "body": "body3",
+  "userId": "103",
+  "id": 101
+}
+{
+  "title": "title4",
+  "body": "body4",
+  "userId": "104",
+  "id": 101
+}
+{
+  "title": "title5",
+  "body": "body5",
+  "userId": "105",
+  "id": 101
+}
+{
+  "title": "title6",
+  "body": "body6",
+  "userId": "106",
+  "id": 101
+}
+{
+  "title": "title7",
+  "body": "body7",
+  "userId": "107",
+  "id": 101
+}
+{
+  "title": "title8",
+  "body": "body8",
+  "userId": "108",
+  "id": 101
+}
+{
+  "title": "title9",
+  "body": "body9",
+  "userId": "109",
+  "id": 101
+}
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
