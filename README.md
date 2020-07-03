@@ -1,4 +1,4 @@
-# Rest-Aasured-API-Automation
+# Rest-Assured-API-Automation
 
 ## Technology:
 - IDE: IntelIJ
